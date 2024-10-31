@@ -48,6 +48,14 @@
             ],
             "uploadDate": "2024-10-29T23:00:00.000Z",
             "fileSize": "169.83 GB"
+        },
+        {
+            "title": "Arma Reforger",
+            "uris": [
+                "magnet:?xt=urn:btih:2bfdc7c67b8ee0cb18b153a358ca584d8d248c04&dn=Arma%20Reforger&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce"
+            ],
+            "uploadDate": "2024-10-29T23:00:00.000Z",
+            "fileSize": "18.20 GB"
         }
     ]
 }
