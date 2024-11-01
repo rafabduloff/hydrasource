@@ -44,7 +44,7 @@
         {
             "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl (dev build)",
             "uris": [
-                "magnet:?xt=urn:btih:15939daf8dc94e8b13e919c44653e9fc1b87b018&dn=STALKER2%20Repack%20By%20VTSS&ws=https://vk.com/vestnik_tss/"
+                
             ],
             "uploadDate": "2024-10-29T23:00:00.000Z",
             "fileSize": "169.83 GB"
@@ -64,6 +64,14 @@
             ],
             "uploadDate": "2024-10-29T23:00:00.000Z",
             "fileSize": "43.37 GB"
+        },
+        {
+            "title": "Squad (Offworld Industries)",
+            "uris": [
+                "magnet:?xt=urn:btih:22c161e4aee269f267da25a9c1f8e002215a5be6&dn=Squad%28v15.0.19.18909%29_Coop_Land_Repack_by_UnknownException&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce"
+            ],
+            "uploadDate": "2024-10-29T23:00:00.000Z",
+            "fileSize": "55.23 GB"
         }
     ]
 }
