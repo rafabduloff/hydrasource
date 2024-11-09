@@ -72,6 +72,14 @@
             ],
             "uploadDate": "2024-10-29T23:00:00.000Z",
             "fileSize": "55.23 GB"
+        },
+        {
+            "title": "Serious Sam Classics: Revolution",
+            "uris": [
+                "magnet:?xt=urn:btih:0702c6ff2a5b4a6cd00d342648b07765339963ef&dn=Serious_Sam_Classics_Revolution&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce"
+            ],
+            "uploadDate": "2024-11-08T23:00:00.000Z",
+            "fileSize": "1.25 GB"
         }
     ]
 }
